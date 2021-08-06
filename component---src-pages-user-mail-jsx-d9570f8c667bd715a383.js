@@ -1,0 +1,2 @@
+(self.webpackChunkmainserv=self.webpackChunkmainserv||[]).push([[495],{7746:function(e,n,t){"use strict";t.r(n);var u=t(7294),l=t(4276);n.default=function(){return u.createElement("div",null,u.createElement(l.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-user-mail-jsx-d9570f8c667bd715a383.js.map
