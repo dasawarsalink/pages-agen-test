@@ -1,2 +1,0 @@
-(self.webpackChunkmainserv=self.webpackChunkmainserv||[]).push([[230],{4199:function(e,n,t){"use strict";t.r(n);var a=t(7294),u=t(5444);n.default=function(){return a.useEffect((function(){localStorage.getItem("token")?(0,u.navigate)("/user/"):(0,u.navigate)("/user/login/")})),a.createElement("div",null)}}}]);
-//# sourceMappingURL=component---src-pages-index-jsx-76070d9aa160b166e546.js.map
